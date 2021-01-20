@@ -58,7 +58,7 @@ int main(int argc, char* argv[]){
 				if (B[y_pos][x_pos]!=0){
 					clean_boardCase(y_pos, x_pos);
 				}
-				// Puis on affiche le pad des nombres et un ?
+				// Puis on affiche le pad des nombres et un '?'
 				choosing=1;
 				draw_padNumber();
 				char c[2] = "?\0";
