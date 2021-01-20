@@ -11,4 +11,10 @@ Ensuite, pour lancer le programme, il faut utiliser la commande :
 
 "*./ExoX*" où X est le numéro de l'exercice.
 
+Pour les TPs de 5 à 8, un makefile est disponible, il faut utiliser la commande :
+
+"*make*"
+
+Puis lancer l'exécutable qui en ressort ("*./ExoX*" ou "./main" ou ...)
+
 # Contenu détaillé des TPs
