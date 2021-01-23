@@ -21,7 +21,7 @@ Puis lancer l'exécutable qui en ressort ("*./ExoX*" ou "./main" ou ...)
 
 - TP 2 :
 
-Hellow World, Addition avec arguments, Affichage de nombres, Affichage d'un code source
+Hello World, Addition avec arguments, Affichage de nombres, Affichage d'un code source
 
 - TP 3 :
 
