@@ -25,7 +25,7 @@ Hello World, Addition avec arguments, Affichage de nombres, Affichage d'un code 
 
 - TP 3 :
 
-Calculs de puissance, Comptage de mots, Conversion de bases, Recherche dichotomique
+Calculs de puissance, Comptage de mots, Conversion de bases, Recherche dichotomique, Tri bulle
 
 - TP 4 :
 
