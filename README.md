@@ -18,3 +18,31 @@ Pour les TPs de 5 à 8, un makefile est disponible, il faut utiliser la commande
 Puis lancer l'exécutable qui en ressort ("*./ExoX*" ou "./main" ou ...)
 
 # Contenu détaillé des TPs
+
+- TP 2 :
+
+Hellow World, Addition avec arguments, Affichage de nombres, Affichage d'un code source
+
+- TP 3 :
+
+Calculs de puissance, Comptage de mots, Conversion de bases, Recherche dichotomique
+
+- TP 4 :
+
+Fonctions avec les piles, Calculatrice en polonais inversé
+
+- TP 5 :
+
+Fonctions sur des tableaux, Tri fusion
+
+- TP 6 :
+
+Liste de permutations
+
+- TP 7 :
+
+Sudoku graphique complet
+
+- TP 8 :
+
+Calcul de longueur de vol maximale de la fonction Syracuse pour n<200000000
