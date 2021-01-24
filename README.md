@@ -4,6 +4,9 @@ Ensemble de mes TPs de C - ESIPE INFO 1
 Portfolio disponible à cette adresse :
 https://tietienne77.wixsite.com/portfolioprogc
 
+Ensemble de mes productions disponible sur GitHub :
+https://github.com/Tietienne/Prog-C-ESIPE
+
 # Compilation et exécution
 
 Pour compiler les TPs de 2 à 4, il faut utiliser la commande :
